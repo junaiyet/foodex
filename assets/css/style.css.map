@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AACI,WADO,CACP,CAAC,CAAA;EACD,gBAAgB,EAAE,GAAG;EACrB,KAAK,EAAE,KAAK;CAEf;;AALD,AACI,WADO,CACP,CAAC,CAAA;EACD,gBAAgB,EAAE,GAAG;EACrB,KAAK,EAAE,KAAK;CAEf",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/_variabls.scss",
+        "../sass/_typography.scss",
+        "../sass/_common.scss",
+        "../sass/template/_navigation.scss",
+        "../sass/template/_navigation.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
